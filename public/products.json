@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "image": "/images/headphones.svg",
+    "price": 89.99,
+    "category": "Electronics",
+    "rating": 4.5,
+    "description": "Over-ear wireless headphones with soft cushions and up to 30 hours of battery life."
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "image": "/images/smartwatch.svg",
+    "price": 129.0,
+    "category": "Electronics",
+    "rating": 4.2,
+    "description": "Track your steps, heart rate and sleep. Water resistant with a bright touch screen."
+  },
+  {
+    "id": 3,
+    "name": "Smartphone 128GB",
+    "image": "/images/phone.svg",
+    "price": 449.0,
+    "category": "Electronics",
+    "rating": 4.4,
+    "description": "6.5 inch display, dual camera and a battery that easily lasts a full day."
+  },
+  {
+    "id": 4,
+    "name": "Lightweight Laptop",
+    "image": "/images/laptop.svg",
+    "price": 699.5,
+    "category": "Electronics",
+    "rating": 4.6,
+    "description": "14 inch laptop with a fast SSD. Great for study, coding and everyday work."
+  },
+  {
+    "id": 5,
+    "name": "Digital Camera",
+    "image": "/images/camera.svg",
+    "price": 349.0,
+    "category": "Electronics",
+    "rating": 4.3,
+    "description": "24 megapixel camera with full HD video. Easy to carry on trips."
+  },
+  {
+    "id": 6,
+    "name": "Bluetooth Speaker",
+    "image": "/images/speaker.svg",
+    "price": 39.99,
+    "category": "Electronics",
+    "rating": 4.1,
+    "description": "Small portable speaker with clear sound and 12 hours of playtime."
+  },
+  {
+    "id": 7,
+    "name": "Cotton T-Shirt",
+    "image": "/images/tshirt.svg",
+    "price": 19.99,
+    "category": "Fashion",
+    "rating": 4.0,
+    "description": "Soft 100% cotton t-shirt with a relaxed fit. Easy to wash and wear."
+  },
+  {
+    "id": 8,
+    "name": "Running Sneakers",
+    "image": "/images/sneakers.svg",
+    "price": 64.5,
+    "category": "Fashion",
+    "rating": 4.4,
+    "description": "Light and breathable sneakers with a cushioned sole for daily running."
+  },
+  {
+    "id": 9,
+    "name": "Sunglasses",
+    "image": "/images/sunglasses.svg",
+    "price": 24.0,
+    "category": "Fashion",
+    "rating": 3.9,
+    "description": "UV protected sunglasses with a strong frame. Suits most face shapes."
+  },
+  {
+    "id": 10,
+    "name": "Travel Backpack",
+    "image": "/images/backpack.svg",
+    "price": 45.0,
+    "category": "Fashion",
+    "rating": 4.5,
+    "description": "Water resistant backpack with a laptop pocket and many small compartments."
+  },
+  {
+    "id": 11,
+    "name": "Ceramic Coffee Mug",
+    "image": "/images/mug.svg",
+    "price": 12.5,
+    "category": "Home",
+    "rating": 4.7,
+    "description": "Large 350ml ceramic mug. Microwave and dishwasher safe."
+  },
+  {
+    "id": 12,
+    "name": "Desk Lamp",
+    "image": "/images/lamp.svg",
+    "price": 29.99,
+    "category": "Home",
+    "rating": 4.2,
+    "description": "LED desk lamp with three brightness levels and a flexible neck."
+  },
+  {
+    "id": 13,
+    "name": "Indoor Plant Pot",
+    "image": "/images/plant.svg",
+    "price": 16.0,
+    "category": "Home",
+    "rating": 4.0,
+    "description": "Decorative plant pot with a drainage tray. Looks nice on a desk or shelf."
+  },
+  {
+    "id": 14,
+    "name": "Bestseller Book Set",
+    "image": "/images/books.svg",
+    "price": 34.0,
+    "category": "Home",
+    "rating": 4.6,
+    "description": "A set of three popular novels. A good gift for any reader."
+  },
+  {
+    "id": 15,
+    "name": "Football",
+    "image": "/images/football.svg",
+    "price": 22.0,
+    "category": "Sports",
+    "rating": 4.3,
+    "description": "Size 5 football with strong stitching. Suitable for grass and turf."
+  },
+  {
+    "id": 16,
+    "name": "Yoga Mat",
+    "image": "/images/yogamat.svg",
+    "price": 27.5,
+    "category": "Sports",
+    "rating": 4.5,
+    "description": "Non-slip 6mm yoga mat that is comfortable for stretching and workouts."
+  }
+]
